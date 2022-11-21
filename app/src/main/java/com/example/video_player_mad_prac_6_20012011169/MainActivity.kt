@@ -1,4 +1,4 @@
-package com.example.video_player_mad_prac_6_20012011169
+package com.example.video_player_mad_prac_6_20012011185
 
 import android.content.Intent
 import android.net.Uri
